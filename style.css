@@ -223,6 +223,15 @@ header .search-bar-container label:hover{
   color:#fff;
   cursor: pointer;
 }
+
+.login-form-container2{
+  position: absolute;
+  top:2rem; right:3rem;
+  font-size: 5rem;
+  color:#fff;
+  cursor: pointer;
+}
+
 br{
   margin-bottom: 52px;
 }
